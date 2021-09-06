@@ -1,5 +1,7 @@
 
-<a href="#"><img width="100%" height="auto" src="Images/Avatar.jpg" height="175px"/></a>
+<p align="center">
+    <a href="#"><img width="400px" src="Images/Avatar.jpg"/></a>
+</p>
 
 <h1 align="center">Hello there Stupids!, I'm Amal Lalgi</h1>
 <h3 align="center">A stupid 16 year old full stack web development enthusiast!</h3>
