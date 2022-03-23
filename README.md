@@ -3,22 +3,18 @@
     <a href="#"><img width="400px" src="Images/Avatar.jpg"/></a>
 </p>
 
-<h1 align="center">Hello there Stupids!, I'm Amal Lalgi</h1>
+<h1 align="center">Hello there Guys, I'm Amal Lalgi!</h1>
 <h3 align="center">A stupid 16 year old full stack web development enthusiast!</h3>
 
 <br/>
 
 - 🔭 I’m currently working on "Nothing" - cuz' I suck at everything!
 
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [TheAmalLalgi.github.io](TheAmalLalgi.github.io)
 
 - 💬 Ask me about **something!**
 
 - 📫 Email Me **amallalgi2487@gmail.com**, **amallalgioriginal@gmail.com**
-
-- And I hate <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="30"/> </a> PHP
 
 ## 🚀 My Languages and Tools:
 
