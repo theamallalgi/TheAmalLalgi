@@ -32,8 +32,8 @@
 </details>
 
 <details>
-	<summary>👻 Wanna see a secret?</summary>
+	<summary>🦑 Wanna see something fun?</summary>
 
-## Booo!
+## 👻 Booo!
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/nosferatu.gif?raw=true)
 </details>
