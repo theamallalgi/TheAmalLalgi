@@ -2,7 +2,8 @@
 
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23e6edf3&aColor=%23b5bbc0)
+> github/theamallalgi/profile/readme.md
+
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
 
