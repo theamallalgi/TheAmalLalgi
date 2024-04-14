@@ -6,7 +6,10 @@
 	<summary>🦑 Wanna see my social media handles?</summary>
 
 ## 🐦 Feel free to follow me and Stuff!
+<center>
+
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://instagram.com/theamallalgi) [![X/Twitter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg)](https://x.com/amallalgi) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/amallalgi) [![PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://paypal.me/theamallalgi) [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:theamallalgi@gmail.com) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](t.me/theamallalgi/) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://theamallalgi.pages.dev/) [![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg)](https://open.spotify.com/user/t33tjvnatdw1hf5ner4vpt2kn?si=YqmENfcuTyuGJG1Nvo_u0Q) [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)](https://reddit.com/user/theamallalgi) [![Dribble](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg)](https://dribbble.com/TheAmalLalgi) [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/amallalgi)
+</center>
 </details>
 
 <details open>
