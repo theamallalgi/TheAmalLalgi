@@ -10,9 +10,10 @@
 </details>
 
 <details>
-	<summary>🦑 I listen to songs!</summary>
+	<summary>🦑 I love listening to old songs!</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&redirect=true)
+## 🎺 This is something I listen to:
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
 </details>
 
 <details>
