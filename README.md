@@ -34,14 +34,14 @@
 </details>
 
 <details>
-	<summary>🦑 Wanna see something fun?</summary>
+	<summary>🪙 Wanna see something fun?</summary>
 
 ## 👻 Booo!
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/nosferatu.gif?raw=true)
 </details>
 
 <details>
-	<summary>🐲 Hear my highly exaggerated backstory; </summary>
+	<summary>🐲 Hear my highly exaggerated backstory ;)</summary>
 
 ## ⚔️ The Tale of Amal the Great and Powerful!
 In the shadowy realm of Code-no-Kuni, where the whispers of algorithms intertwined with the rustling bamboo leaves, there wandered a ronin known as Amal-san. Cloaked in tattered robes and wielding a keyboard with the grace of a warrior's blade, Amal-san treaded through the mist-shrouded forest, his journey guided by the faint glow of a mystical laptop.
