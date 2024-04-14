@@ -2,7 +2,7 @@
 
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
-> github > theamallalgi > profile > readme.md
+> <a href="github.com/theamallalgi">github</a> > theamallalgi > profile > readme.md
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
