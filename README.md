@@ -10,13 +10,6 @@
 </details>
 
 <details>
-	<summary>🦑 I love listening to old songs!</summary>
-
-## 🎺 This is something I listen to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&redirect=true)
-</details>
-
-<details>
 	<summary>🦑 Wanna see what I do in Tech?</summary>
 
 ## ⚒️ This is my Dev & Design Stack:
@@ -24,11 +17,18 @@
 </details>
 
 <details>
+	<summary>🦑 I love listening to old songs!</summary>
+
+## 🎺 This is something I listen to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&redirect=true)
+</details>
+
+<details>
 	<summary>🦑 And See my Github Stats below :)</summary>
 
 ## 🛞 Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theamallalgi&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theamallalgi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theamallalgi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 </details>
 
 <details>
