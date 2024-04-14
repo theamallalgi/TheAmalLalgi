@@ -10,6 +10,12 @@
 </details>
 
 <details>
+	<summary>🦑 I listen to songs!</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&redirect=true)
+</details>
+
+<details>
 	<summary>🦑 Wanna see what I do in Tech?</summary>
 
 ## ⚒️ This is my Dev & Design Stack:
