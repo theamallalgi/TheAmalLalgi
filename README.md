@@ -2,7 +2,7 @@
 
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
-> :memo: **Quote:** Sunrises are beautiful. But I like Sunsets more!
+> Sunrises are beautiful. But I like Sunsets more!
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
