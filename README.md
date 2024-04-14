@@ -2,7 +2,7 @@
 
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
-> <a href="https://github.com/" target='blank' >github</a> > <a href="https://theamallalgi.pages.dev" target='blank' >theamallalgi</a> > <a href="https://github.com/theamallalgi" target='blank' >profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='blank' >readme.md</a>
+> <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a>
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
