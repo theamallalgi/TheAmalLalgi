@@ -3,7 +3,7 @@
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
 > Sunrises are beautiful. But I like Sunsets more!
-[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes?theme=nord)
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
