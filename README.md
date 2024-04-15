@@ -1,4 +1,4 @@
-![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/name.gif?raw=true)
+![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/header.png?raw=true)
 
 ![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
 
