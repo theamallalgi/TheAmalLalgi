@@ -1,7 +1,5 @@
 ![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/header.png?raw=true)
 
-![Quote (Dev, Design & Fun)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/quote.gif?raw=true)
-
 > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a>
 
 <details open>
