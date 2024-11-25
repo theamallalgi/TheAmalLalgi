@@ -22,7 +22,7 @@
 	<summary>🦑 I love listening to old songs!</summary>
 
 ## 🎺 This is something I listen to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 </details>
 
 <details>
