@@ -2,7 +2,7 @@
 
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
-> 私は日本語を話せませんし、理解できません, aber ich kann ziemlich fließend deutsch sprechen! y un poco de español también! et quelques langues supplémentaires ;) [note: programmatio linguae non comprehenditur!]
+> [ other than programming languages, i handle five languages, even german, so if any of ya'll feel like chatting or something, just hit me up! i am not a pro coder, i don't really know if you are, but let's exchange valuable info that'll help us both grow! ] happy hacking!
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
