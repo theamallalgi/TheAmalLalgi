@@ -1,4 +1,5 @@
-name: Update README Header Image
+name: Update README
+
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
@@ -9,17 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.x"
-      - name: Run update script
+
+      - name: Run seasonal header update script
         run: |
           python scripts/seasonal_readme_updater.py
+
+      - name: Run daily quote update script
+        run: |
+          python scripts/update_quote.py
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "docs(header): change header image based on date/season" || echo "No changes to commit"
+          git commit -m "docs(readme): update header and daily quote" || echo "No changes to commit"
           git push
