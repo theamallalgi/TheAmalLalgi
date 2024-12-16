@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> [ you've got to ask yourself one question: 'do i feel lucky?' well, do you, punk? ]
+> [ we are all stories in the end. just make it a good one ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
@@ -60,4 +60,6 @@ And so, from the depths of the mystical forest emerged a new legend: Amal-san, t
 the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
 </details>
 tal realm, whose roar sounded more like a laugh than a threat.
+</details>
+han a threat.
 </details>
