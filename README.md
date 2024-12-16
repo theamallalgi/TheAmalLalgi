@@ -38,7 +38,7 @@
 	<summary>🪙 Wanna see something fun?</summary>
 
 ## 👻 Booo!
-![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/assets/nosferatu.gif?raw=true)
+![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/nosferatu.gif?raw=true)
 </details>
 
 <details>
