@@ -21,13 +21,13 @@ jobs:
           git fetch origin
           git reset --hard origin/main  # Ensures we're in sync with the remote branch
 
-      - name: Run seasonal header update script
-        run: |
-          python scripts/seasonal-readme-updater.py
-
       - name: Run daily quote update script
         run: |
           python scripts/update-quote.py
+
+      - name: Run seasonal header update script
+        run: |
+          python scripts/seasonal-readme-updater.py
 
       - name: Commit and Push Changes
         run: |
