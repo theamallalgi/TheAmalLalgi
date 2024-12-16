@@ -44,23 +44,28 @@ def get_current_seasonal_image(default_image="header.png"):
 
 def update_readme(image_filename):
     """
-    Update README.md with the new image path.
+    Update README.md with the new image path in the first line.
     
     Args:
         image_filename (str): Filename of the image to use
     """
     readme_path = "README.md"
     
+    # Read the content of the README.md
     with open(readme_path, 'r') as file:
-        content = file.read()
+        content = file.readlines()
+
+    # Check the first line for the image reference
+    print("Current first line:", content[0])
     
-    # Replace the image path in the README
-    updated_content = content.replace("header.png", image_filename)
-    
+    # Replace the image in the first line (assuming the first line contains the image path)
+    content[0] = content[0].replace("header.png", image_filename)
+
+    # Write the updated content back to the README.md
     with open(readme_path, 'w') as file:
-        file.write(updated_content)
+        file.writelines(content)
     
-    print(f"README updated with {image_filename}")
+    print(f"README updated with {image_filename} in the first line")
 
 def main():
     # Path to dependencies folder containing images
