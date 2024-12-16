@@ -16,6 +16,11 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Fetch latest changes from the remote repository
+        run: |
+          git fetch origin
+          git reset --hard origin/main  # Ensures we're in sync with the remote branch
+
       - name: Run seasonal header update script
         run: |
           python scripts/seasonal-readme-updater.py
@@ -29,13 +34,15 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # Stage and commit changes
+          # Stage and commit changes if any
           git add README.md
-          git commit -m "docs(readme): update header and daily quote" || echo "No changes to commit"
 
-          # Fetch the latest remote changes and reset to avoid conflicts
-          git fetch origin
-          git reset --soft origin/main
+          # Only commit if there are changes to README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs(readme): update header and daily quote"
+          fi
 
-          # Push the changes (force if necessary)
-          git push --force
+          # Push the changes regularly
+          git push
