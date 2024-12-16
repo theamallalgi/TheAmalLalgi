@@ -44,7 +44,7 @@ def get_current_seasonal_image(default_image="header.png"):
 
 def update_readme(image_filename):
     """
-    Update README.md with the new image path in the first line.
+    Update README.md with the new image URL in the first line.
     
     Args:
         image_filename (str): Filename of the image to use
@@ -55,17 +55,14 @@ def update_readme(image_filename):
     with open(readme_path, 'r') as file:
         content = file.readlines()
 
-    # Check the first line for the image reference
-    print("Current first line:", content[0])
-    
-    # Replace the image in the first line (assuming the first line contains the image path)
-    content[0] = content[0].replace("header.png", image_filename)
+    # Update the first line with the new image URL
+    content[0] = f"![HEADER](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/{image_filename}?raw=true)\n"
 
     # Write the updated content back to the README.md
     with open(readme_path, 'w') as file:
         file.writelines(content)
     
-    print(f"README updated with {image_filename} in the first line")
+    print(f"README updated with {image_filename} in the first line.")
 
 def main():
     # Path to dependencies folder containing images
@@ -78,15 +75,8 @@ def main():
     today = datetime.now()
     print(f"Current date: {today.strftime('%d/%m')}, Matching header image: {seasonal_image}")
     
-    # If seasonal image matches, proceed
-    if seasonal_image != "header.png":
-        # Full path to the seasonal image
-        image_path = os.path.join(dependencies_folder, seasonal_image)
-        
-        # Update README
-        update_readme(seasonal_image)
-    else:
-        print("No seasonal image for today. Using default header.png.")
+    # Update README with the seasonal image
+    update_readme(seasonal_image)
 
 if __name__ == "__main__":
     main()
