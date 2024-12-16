@@ -10,14 +10,14 @@ SEASONAL_IMAGES = {
     "0701": "programmersday.png",
     "1225": "christmas.png",
     
-    # holiday seasons
+    # holiday seasons (date ranges)
     "3112-0101": "newyear.png",
     # "0825-0827": "onam.png",
 }
 
 def get_current_seasonal_image(default_image="header.png"):
     """
-    Determine the appropriate image based on current date
+    Determine the appropriate image based on the current date.
     
     Args:
         default_image (str): Default image to use if no seasonal image matches
@@ -43,7 +43,7 @@ def get_current_seasonal_image(default_image="header.png"):
 
 def update_readme(image_filename):
     """
-    Update README.md with the new image path
+    Update README.md with the new image path.
     
     Args:
         image_filename (str): Filename of the image to use
