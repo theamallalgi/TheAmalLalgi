@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> [ we are all stories in the end. just make it a good one ]
+> [ the world is yours, kid. don't let anyone take it from you ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
