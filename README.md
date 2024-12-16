@@ -1,8 +1,8 @@
-![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/header.png?raw=true)
+![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/christmas.png?raw=true)
 
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
-> [ be excellent to each other ]
+> [ sometimes the right path is not the easiest one ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
