@@ -1,8 +1,8 @@
-![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/header.png?raw=true)
+![Amal Lalgi (Name)](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/christmas.png?raw=true)
 
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
-> [ other than programming languages, i handle five languages, even german, so if any of ya'll feel like chatting or something, just hit me up! i am not a pro coder, i don't really know if you are, but let's exchange valuable info that'll help us both grow! ] happy hacking!
+> [ be excellent to each other ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
@@ -55,4 +55,6 @@ As days turned to weeks, and weeks to months, Amal-san's mastery over the digita
 But the path to enlightenment was fraught with peril. Amidst the tangled vines of code, a dragon lurked, its presence felt in every bug and error that dared to challenge Amal-san's resolve. Yet with the courage of a hero facing a mighty foe, he pressed onward, fueled by the fire of his ambition and a flask of mystical potion (or perhaps just a strong cup of tea).
 
 And so, from the depths of the mystical forest emerged a new legend: Amal-san, the coding ronin, whose skills were as sharp as his sarcasm and whose code was as formidable as the dragon's roar. So, if ever you find yourself lost in the labyrinth of ones and zeros, remember the tale of Amal-san, and know that even in the face of the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
+</details>
+the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
 </details>
