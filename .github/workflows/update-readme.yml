@@ -18,11 +18,11 @@ jobs:
 
       - name: Run seasonal header update script
         run: |
-          python scripts/seasonal_readme_updater.py
+          python scripts/seasonal-readme-updater.py
 
       - name: Run daily quote update script
         run: |
-          python scripts/update_quote.py
+          python scripts/update-quote.py
 
       - name: Commit changes
         run: |
