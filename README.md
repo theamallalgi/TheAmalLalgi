@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> [ sometimes the right path is not the easiest one ]
+> [ wax on, wax off ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
@@ -58,4 +58,6 @@ But the path to enlightenment was fraught with peril. Amidst the tangled vines o
 And so, from the depths of the mystical forest emerged a new legend: Amal-san, the coding ronin, whose skills were as sharp as his sarcasm and whose code was as formidable as the dragon's roar. So, if ever you find yourself lost in the labyrinth of ones and zeros, remember the tale of Amal-san, and know that even in the face of the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
 
 the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
+</details>
+tal realm, whose roar sounded more like a laugh than a threat.
 </details>
