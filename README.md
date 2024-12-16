@@ -3,7 +3,7 @@
 <!-- > <a href="https://github.com/" target='_blank'>github</a> > <a href="https://theamallalgi.pages.dev" target='_blank'>theamallalgi</a> > <a href="https://github.com/theamallalgi" target='_blank'>profile</a> > <a href="https://github.com/theamallalgi/theamallalgi/readme.md" target='_blank'>readme.md</a> -->
 
 > [!NOTE]
-> [ wax on, wax off ]
+> [ you've got to ask yourself one question: 'do i feel lucky?' well, do you, punk? ]
 
 <details open>
 	<summary>🦑 Wanna see my social media handles?</summary>
