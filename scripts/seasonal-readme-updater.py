@@ -8,9 +8,9 @@ SEASONAL_IMAGES = {
     "0908": "birthday.png",
     "2204": "earthday.png",
     "0701": "programmersday.png",
+    "1225": "christmas.png",
     
     # holiday seasons
-    "1220-1225": "christmas.png",
     "3112-0101": "newyear.png",
     # "0825-0827": "onam.png",
 }
