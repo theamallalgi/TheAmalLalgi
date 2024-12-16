@@ -5,7 +5,8 @@ import random
 
 # Get the directory of the current script
 script_dir = os.path.dirname(os.path.abspath(__file__))
-data_file_path = os.path.join(script_dir, 'data', 'quotes.json')
+# data_file_path = os.path.join(script_dir, 'data', 'quotes.json')
+data_file_path = '/home/runner/work/theamallalgi/theamallalgi/scripts/data/quotes.json'
 
 # Load the JSON file with quotes
 with open(data_file_path, 'r') as file:
