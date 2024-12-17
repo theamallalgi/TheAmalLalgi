@@ -41,24 +41,3 @@
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/nosferatu.gif?raw=true)
 </details>
 
-<details>
-	<summary>🐲 Hear my highly exaggerated backstory ;)</summary>
-
-## ⚔️ The Tale of Amal the Great and Powerful!
-In the shadowy realm of Code-no-Kuni, where the whispers of algorithms intertwined with the rustling bamboo leaves, there wandered a ronin known as Amal-san. Cloaked in tattered robes and wielding a keyboard with the grace of a warrior's blade, Amal-san treaded through the mist-shrouded forest, his journey guided by the faint glow of a mystical laptop.
-
-Legend spoke of a fateful encounter deep within the heart of the forest, where Amal-san stumbled upon a relic of ancient power: a laptop pulsating with the fierce energy of a dragon's fiery breath (龍の炎の息吹 - ryū no honō no ibuki) (or perhaps just a particularly bright screen). Intrigued by the mysterious device, Amal-san dared to unlock its secrets, unwittingly unleashing a torrent of arcane gibberish upon his unsuspecting gaze.
-
-Initially confounded by the cryptic symbols and lines of code, Amal-san scoffed at the notion of surrender. With the determination of a samurai facing a fearsome dragon, he delved into the depths of the digital abyss, resolved to conquer its mysteries.
-
-As days turned to weeks, and weeks to months, Amal-san's mastery over the digital arts flourished. Like a sorcerer wielding powerful incantations, he harnessed the tools of web development, crafting websites with the finesse of a master illusionist and automating tasks with the precision of a wizard's spell.
-
-But the path to enlightenment was fraught with peril. Amidst the tangled vines of code, a dragon lurked, its presence felt in every bug and error that dared to challenge Amal-san's resolve. Yet with the courage of a hero facing a mighty foe, he pressed onward, fueled by the fire of his ambition and a flask of mystical potion (or perhaps just a strong cup of tea).
-
-And so, from the depths of the mystical forest emerged a new legend: Amal-san, the coding ronin, whose skills were as sharp as his sarcasm and whose code was as formidable as the dragon's roar. So, if ever you find yourself lost in the labyrinth of ones and zeros, remember the tale of Amal-san, and know that even in the face of the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
-
-the most daunting challenges, the spirit of a true warrior can prevail. As for the dragon, he was known as Ryonosuke, the mighty and somewhat goofy guardian of the digital realm, whose roar sounded more like a laugh than a threat.
-tal realm, whose roar sounded more like a laugh than a threat.
-</details>
-hreat.
-</details>
