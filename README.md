@@ -41,5 +41,3 @@
 ![Nosferatu](https://github.com/theamallalgi/TheAmalLalgi/blob/main/dependencies/nosferatu.gif?raw=true)
 </details>
 
-ails>
-
