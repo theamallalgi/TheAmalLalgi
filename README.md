@@ -20,7 +20,7 @@
 
 ### Web Development and Frameworks I Use
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![SCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg) ![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
-![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg) ![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg) ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)</br>
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg) ![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg) ![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg) ![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
 
 ### Shell Scripting and Automation Tools
