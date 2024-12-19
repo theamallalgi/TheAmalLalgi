@@ -30,10 +30,10 @@
 ![Go Lang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg) ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
 
 ### Some Tools and Platforms I Rely too much on
-![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg) ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Cloudflare](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg) ![Netlify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
 
 ### Editors and IDEs I Love (Sorted)
-![NVim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Xcode](https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode1.svg) ![Android Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg) </br>
+![NVim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Android Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg) ![Xcode](https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode1.svg) </br>
 ![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg) ![Pycharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg) ![IJIdea](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg)
 
 ### Main Creative Tools I Use
