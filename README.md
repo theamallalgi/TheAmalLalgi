@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>🦑 What I Use to Build, Automate, and Create (Open)</summary>
+<summary>🦑 What I Use to Build, and Create (Open)</summary>
 
 ### Web Development and Frameworks I Use
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![SCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg) ![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
