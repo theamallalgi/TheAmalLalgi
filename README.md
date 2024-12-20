@@ -13,7 +13,7 @@
 [![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)](https://github.com/theamallalgi/)
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:theamallalgi@gmail.com) [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://theamallalgi.pages.dev/)
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/amallalgi) [![PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://paypal.me/theamallalgi)
-[![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg)](https://open.spotify.com/user/t33tjvnatdw1hf5ner4vpt2kn?si=YqmENfcuTyuGJG1Nvo_u0Q) [![Dribble](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg)](https://dribbble.com/TheAmalLalgi) [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/amallalgi)
+[![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg)](https://open.spotify.com/user/t33tjvnatdw1hf5ner4vpt2kn?si=YqmENfcuTyuGJG1Nvo_u0Q) [![Dribble](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg)](https://dribbble.com/TheAmalLalgi) [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/amallalgi) [![Dev.to](https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg)](https://dev.to/theamallalgi)
 </details>
 
 <details>
