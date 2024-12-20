@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary> 🦑 What I Use to Build, and Create (Open)</summary>
+<summary> 🦑 What Do I Use to Build, and Create?</summary>
 
 ### Web Development and Frameworks I Use
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg) ![Typescript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![SCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg) ![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
@@ -43,14 +43,14 @@
 </details>
 
 <details>
-<summary> 🦑 I love listening to Ancient songs! (Really!)</summary>
+<summary> 🦑 I love listening to Ancient songs!</summary>
 
 ## 🎺 This is something I listen to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t33tjvnatdw1hf5ner4vpt2kn&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 </details>
 
 <details>
-<summary> 🦑 And See my Github Stats below :)</summary>
+<summary> 🦑 You Can See my Github Stats below!</summary>
 
 ## 🛞 Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theamallalgi&theme=tokyonight&hide_border=true)
